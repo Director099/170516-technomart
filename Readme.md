@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Ярослав Шевцов](https://up.htmlacademy.ru/htmlcss/14/user/170516).
-* Наставник: `Неизвестно`.
+* Студент: [Ярослав Шевцов](https://up.htmlacademy.ru/htmlcss/13/user/170516).
+* * Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker)
 
 ---
 
